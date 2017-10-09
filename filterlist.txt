@@ -5,6 +5,7 @@ www.cnbc.com##.metadata.docked-card
 www.cnbc.com##.theplatform-video__docked.dockable.player-lazy-loaded-mobile
 www.cnbc.com##.cnbc-card.cnbc-end
 .wikia.com##.featured-video-wrapper
+.wikia.com##.article-featured-video__container
 .wikia.com###WikiaRailWrapper
 .wikia.com###WikiaBar
 www.bloomberg.com##.lede.lede-media-video
