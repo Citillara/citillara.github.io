@@ -12,3 +12,4 @@ www.bloomberg.com##.lede.lede-media-video
 assets.bwbx.io
 pmd.cdn.turner.com
 cvp1.cdn.turner.com
+ooyala.com
