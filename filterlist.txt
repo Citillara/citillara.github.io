@@ -1,4 +1,3 @@
-
 assets.bwbx.io
 brightcove.net
 cvp1.cdn.turner.com
@@ -36,6 +35,3 @@ bitdashplayer.min.js
 .wikia.com###WikiaRailWrapper
 .wikia.com###WikiaBar
 ||bitdashplayer.min.js$script,domain=wikia.com
-
-
-
