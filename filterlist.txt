@@ -4,6 +4,7 @@ cvp1.cdn.turner.com
 digiteka.net
 .destrics.com
 .jwpsrv.com
+.jwpcdn.com
 fr.pinterest.com##div:nth-of-type(4) > div:nth-of-type(3)
 fr.pinterest.com##div:nth-of-type(4) > div:nth-of-type(3) > div:nth-of-type(2)
 msdn.microsoft.com###s_ratingSection1
@@ -31,6 +32,7 @@ bitdashplayer.min.js
 .wikia.com##.oo-error-screen.oo-state-screen
 .wikia.com##.oo-player-skin
 .wikia.com##.featured-video-wrapper
+.wikia.com##.jw-reset.jw-video
 .wikia.com###globalNavigation
 .wikia.com###WikiaBar.wikia.com##.featured-video-wrapper
 .wikia.com##.article-featured-video__container
