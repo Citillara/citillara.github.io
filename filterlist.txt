@@ -44,6 +44,8 @@ www.liberation.fr##.paywall-deny
 
 .s3-website.eu-central-1.amazonaws.com
 
+gizmodo.com##.initialized.instream-permalink.instream-native-video--desktop.instream-native-video
+
 ! Don't block twitch API
 @@||api.twitch.tv^$xmlhttprequest,domain=www.twitch.tv
 
