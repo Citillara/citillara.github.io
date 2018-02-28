@@ -1,3 +1,4 @@
+! Autoplay offenders
 .bwbx.io
 .brightcove.net
 .bloomberg.tv
@@ -7,11 +8,14 @@
 .jwpsrv.com
 .jwpcdn.com
 .jwplayer.com
-.pinterest.com##div:nth-of-type(4) > div:nth-of-type(3)
-.pinterest.com##div:nth-of-type(4) > div:nth-of-type(3) > div:nth-of-type(2)
-msdn.microsoft.com###s_ratingSection1
 .ooyala.com
 
+! Annoying
+msdn.microsoft.com###s_ratingSection1
+msdn.microsoft.com##.vsBannerRight
+msdn.microsoft.com###vsBanner
+
+! Cosmetic filters
 www.bloomberg.com###bb-nav
 www.bloomberg.com##.bb-mini-player.bb-miniplayer
 www.bloomberg.com##.lede.lede-media-video
@@ -27,6 +31,11 @@ www.lefigaro.fr##.fig-micronav__item-link
 www.leparisien.fr##.fixed.overlay_metered_small.overlay__background.overlay_small
 www.liberation.fr##.paywall-deny
 
+! Cosmetic filters : pinterest login
+.pinterest.com##div:nth-of-type(4) > div:nth-of-type(3)
+.pinterest.com##div:nth-of-type(4) > div:nth-of-type(3) > div:nth-of-type(2)
+
+! All wikia annoyances
 .wikia.com###globalNavigation
 .wikia.com##.wikia-bar-anon.wikia-bar
 .wikia.com###WikiaBarWrapper
@@ -42,9 +51,12 @@ www.liberation.fr##.paywall-deny
 .wikia.com###WikiaBar
 ||bitdashplayer.min.js$script,domain=wikia.com
 
+! Serves too many malwares
 .s3-website.eu-central-1.amazonaws.com
 
+! Autoplay video pops in the middle of the article : NO !
 gizmodo.com##.initialized.instream-permalink.instream-native-video--desktop.instream-native-video
+
 
 ! Don't block twitch API
 @@||api.twitch.tv^$xmlhttprequest,domain=www.twitch.tv
