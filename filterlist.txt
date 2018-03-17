@@ -49,6 +49,8 @@ www.liberation.fr##.paywall-deny
 .wikia.com##.article-featured-video__container
 .wikia.com###WikiaRailWrapper
 .wikia.com###WikiaBar
+wikia.com##.featured-video__wrapper
+wikia.com###WikiaBarWrapper
 ||bitdashplayer.min.js$script,domain=wikia.com
 
 ! Serves too many malwares
