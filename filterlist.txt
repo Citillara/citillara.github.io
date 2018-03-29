@@ -1,14 +1,14 @@
 ! Autoplay offenders
-.bwbx.io
-.brightcove.net
-.bloomberg.tv
-.turner.com
-.digiteka.net
-.destrics.com
-.jwpsrv.com
-.jwpcdn.com
-.jwplayer.com
-.ooyala.com
+bwbx.io
+brightcove.net
+bloomberg.tv
+turner.com
+digiteka.net
+destrics.com
+jwpsrv.com
+jwpcdn.com
+jwplayer.com
+ooyala.com
 
 ! Annoying
 msdn.microsoft.com###s_ratingSection1
@@ -19,6 +19,7 @@ msdn.microsoft.com###vsBanner
 www.bloomberg.com###bb-nav
 www.bloomberg.com##.bb-mini-player.bb-miniplayer
 www.bloomberg.com##.lede.lede-media-video
+www.cjr.org###bottom-sharing
 www.cnbc.com##.cnbc-card.cnbc-end
 www.cnbc.com##.metadata.docked-card
 www.cnbc.com##.theplatform-video__docked.dockable.player-lazy-loaded-mobile
@@ -32,29 +33,29 @@ www.leparisien.fr##.fixed.overlay_metered_small.overlay__background.overlay_smal
 www.liberation.fr##.paywall-deny
 
 ! Cosmetic filters : pinterest login
-.pinterest.com##div:nth-of-type(4) > div:nth-of-type(3)
-.pinterest.com##div:nth-of-type(4) > div:nth-of-type(3) > div:nth-of-type(2)
+pinterest.com##div:nth-of-type(4) > div:nth-of-type(3)
+pinterest.com##div:nth-of-type(4) > div:nth-of-type(3) > div:nth-of-type(2)
 
 ! All wikia annoyances
-.wikia.com###globalNavigation
-.wikia.com##.wikia-bar-anon.wikia-bar
-.wikia.com###WikiaBarWrapper
-.wikia.com##.oo-error-screen.oo-state-screen
-.wikia.com##.oo-player-skin
-.wikia.com##.featured-video-wrapper
-.wikia.com##.featured-video__wrapper
-.wikia.com##.jw-reset.jw-video
-.wikia.com###globalNavigation
-.wikia.com###WikiaBar.wikia.com##.featured-video-wrapper
-.wikia.com##.article-featured-video__container
-.wikia.com###WikiaRailWrapper
-.wikia.com###WikiaBar
+wikia.com###globalNavigation
+wikia.com##.wikia-bar-anon.wikia-bar
+wikia.com###WikiaBarWrapper
+wikia.com##.oo-error-screen.oo-state-screen
+wikia.com##.oo-player-skin
+wikia.com##.featured-video-wrapper
+wikia.com##.featured-video__wrapper
+wikia.com##.jw-reset.jw-video
+wikia.com###globalNavigation
+wikia.com###WikiaBar.wikia.com##.featured-video-wrapper
+wikia.com##.article-featured-video__container
+wikia.com###WikiaRailWrapper
+wikia.com###WikiaBar
 wikia.com##.featured-video__wrapper
 wikia.com###WikiaBarWrapper
 ||bitdashplayer.min.js$script,domain=wikia.com
 
 ! Serves too many malwares
-.s3-website.eu-central-1.amazonaws.com
+s3-website.eu-central-1.amazonaws.com
 
 ! Autoplay video pops in the middle of the article : NO !
 gizmodo.com##.initialized.instream-permalink.instream-native-video--desktop.instream-native-video
