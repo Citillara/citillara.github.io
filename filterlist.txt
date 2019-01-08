@@ -9,6 +9,7 @@ jwpsrv.com
 jwpcdn.com
 jwplayer.com
 ooyala.com
+||jwpsrv-vh.akamaihd.net^
 
 ! Annoying
 msdn.microsoft.com###s_ratingSection1
@@ -31,6 +32,9 @@ www.lefigaro.fr##.fig-main-media
 www.lefigaro.fr##.fig-micronav__item-link
 www.leparisien.fr##.fixed.overlay_metered_small.overlay__background.overlay_small
 www.liberation.fr##.paywall-deny
+www.ouest-france.fr###scmp-popin
+www.rajeshbhojwani.co.in##.animating.sticky.centered-top-container
+www.theverge.com###privacy-consent
 
 ! Cosmetic filters : pinterest login
 pinterest.com##div:nth-of-type(4) > div:nth-of-type(3)
