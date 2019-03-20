@@ -58,6 +58,23 @@ wikia.com##.featured-video__wrapper
 wikia.com###WikiaBarWrapper
 ||bitdashplayer.min.js$script,domain=wikia.com
 
+fandom.com###globalNavigation
+fandom.com##.wikia-bar-anon.wikia-bar
+fandom.com###WikiaBarWrapper
+fandom.com##.oo-error-screen.oo-state-screen
+fandom.com##.oo-player-skin
+fandom.com##.featured-video-wrapper
+fandom.com##.featured-video__wrapper
+fandom.com##.jw-reset.jw-video
+fandom.com###globalNavigation
+fandom.com###WikiaBar.fandom.com##.featured-video-wrapper
+fandom.com##.article-featured-video__container
+fandom.com###WikiaRailWrapper
+fandom.com###WikiaBar
+fandom.com##.featured-video__wrapper
+fandom.com###WikiaBarWrapper
+||bitdashplayer.min.js$script,domain=fandom.com
+
 ! Serves too many malwares
 s3-website.eu-central-1.amazonaws.com
 
@@ -68,3 +85,5 @@ gizmodo.com##.initialized.instream-permalink.instream-native-video--desktop.inst
 ! Don't block twitch API
 @@||api.twitch.tv^$xmlhttprequest,domain=www.twitch.tv
 
+! Cosmetic changes
+lite.cnn.io##html:style(margin:40px auto;max-width:650px;line-height:1.6;font-size:18px;color:#444;padding:0 10px; )
