@@ -58,6 +58,8 @@ wikia.com##.featured-video__wrapper
 wikia.com###WikiaBarWrapper
 ||bitdashplayer.min.js$script,domain=wikia.com
 
+gamepedia.com##script:inject(abort-current-inline-script.js, atob, INSTART)
+
 fandom.com###globalNavigation
 fandom.com##.wikia-bar-anon.wikia-bar
 fandom.com###WikiaBarWrapper
