@@ -35,6 +35,7 @@ www.liberation.fr##.paywall-deny
 www.ouest-france.fr###scmp-popin
 www.rajeshbhojwani.co.in##.animating.sticky.centered-top-container
 www.theverge.com###privacy-consent
+youtube.com##.ytp-ce-element
 
 ! Cosmetic filters : pinterest login
 pinterest.com##div:nth-of-type(4) > div:nth-of-type(3)
@@ -58,8 +59,10 @@ wikia.com##.featured-video__wrapper
 wikia.com###WikiaBarWrapper
 ||bitdashplayer.min.js$script,domain=wikia.com
 
+! Hell offender
 gamepedia.com##script:inject(abort-current-inline-script.js, atob, INSTART)
 
+! All wikia annoyances
 fandom.com###globalNavigation
 fandom.com##.wikia-bar-anon.wikia-bar
 fandom.com###WikiaBarWrapper
