@@ -86,6 +86,8 @@ s3-website.eu-central-1.amazonaws.com
 ! Autoplay video pops in the middle of the article : NO !
 gizmodo.com##.initialized.instream-permalink.instream-native-video--desktop.instream-native-video
 
+! Trackers
+digitru.st
 
 ! Don't block twitch API
 @@||api.twitch.tv^$xmlhttprequest,domain=www.twitch.tv
