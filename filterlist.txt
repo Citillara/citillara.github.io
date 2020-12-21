@@ -80,6 +80,9 @@ fandom.com##.featured-video__wrapper
 fandom.com###WikiaBarWrapper
 ||bitdashplayer.min.js$script,domain=fandom.com
 
+! Fextralife shit
+||player.twitch.tv/?allowfullscreen&channel=fextralife&origin=https%3A%2F%2Felderscrollsonline.wiki.fextralife.com$subdocument
+
 ! Serves too many malwares
 s3-website.eu-central-1.amazonaws.com
 
@@ -94,3 +97,6 @@ digitru.st
 
 ! Cosmetic changes
 lite.cnn.io##html:style(margin:40px auto;max-width:650px;line-height:1.6;font-size:18px;color:#444;padding:0 10px; )
+
+
+@@||assets.rpglogs.com^$image,domain=www.fflogs.com
