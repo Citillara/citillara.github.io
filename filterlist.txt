@@ -102,3 +102,4 @@ lite.cnn.io##html:style(margin:40px auto;max-width:650px;line-height:1.6;font-si
 @@||assets.rpglogs.com^$image,domain=www.fflogs.com
 
 www.reddit.com##.infobar-toaster-container
+||embed.twitch.tv^$subdocument,domain=fextralife.com
