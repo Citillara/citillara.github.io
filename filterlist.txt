@@ -41,23 +41,6 @@ youtube.com##.ytp-ce-element
 pinterest.com##div:nth-of-type(4) > div:nth-of-type(3)
 pinterest.com##div:nth-of-type(4) > div:nth-of-type(3) > div:nth-of-type(2)
 
-! All wikia annoyances
-wikia.com###globalNavigation
-wikia.com##.wikia-bar-anon.wikia-bar
-wikia.com###WikiaBarWrapper
-wikia.com##.oo-error-screen.oo-state-screen
-wikia.com##.oo-player-skin
-wikia.com##.featured-video-wrapper
-wikia.com##.featured-video__wrapper
-wikia.com##.jw-reset.jw-video
-wikia.com###globalNavigation
-wikia.com###WikiaBar.wikia.com##.featured-video-wrapper
-wikia.com##.article-featured-video__container
-wikia.com###WikiaRailWrapper
-wikia.com###WikiaBar
-wikia.com##.featured-video__wrapper
-wikia.com###WikiaBarWrapper
-||bitdashplayer.min.js$script,domain=wikia.com
 
 ! Hell offender
 gamepedia.com##script:inject(abort-current-inline-script.js, atob, INSTART)
@@ -79,6 +62,15 @@ fandom.com###WikiaBar
 fandom.com##.featured-video__wrapper
 fandom.com###WikiaBarWrapper
 ||bitdashplayer.min.js$script,domain=fandom.com
+fandom.com##.page__right-rail
+fandom.com##.global-navigation:style(background-color:#000 !important)
+fandom.com##.global-navigation_nav:style(background-color:#000 !important)
+fandom.com##.global-navigation__top:style(background-color:#000 !important)
+fandom.com##.global-navigation__bottom:style(background-color:#000 !important)
+fandom.com##.global-navigation__icon:style(border:0px !important)
+fandom.com##.global-navigation__links
+fandom.com###mixed-content-footer
+
 
 ! Fextralife shit
 ||embed.twitch.tv^$subdocument,domain=fextralife.com
