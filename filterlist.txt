@@ -70,6 +70,8 @@ fandom.com##.global-navigation__bottom:style(background-color:#000 !important)
 fandom.com##.global-navigation__icon:style(border:0px !important)
 fandom.com##.global-navigation__links
 fandom.com###mixed-content-footer
+fandom.com##.sitenotice-wrapper--visible.sitenotice-wrapper
+
 
 
 ! Fextralife shit
