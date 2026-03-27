@@ -1,0 +1,113 @@
+@import "https://code.highcharts.com/dashboards/css/dashboards.css";
+
+body{
+     background-color: rgb(0, 0, 0);
+     text-rendering: optimizelegibility ;
+     font-family: Eurostile, Helvetica, sans-serif ;
+}
+p {margin-bottom:1.25em}
+
+
+a{
+     text-decoration: none;
+     color:rgb(240, 123, 5);
+}
+
+
+a.elite-title{
+     color: rgb(204, 204, 204) ;
+     text-decoration-color:rgb(240, 240, 240);
+     text-transform:uppercase;
+     font-weight: bold;
+}
+
+a:hover{
+     text-decoration: none;
+     color:rgb(240, 123, 5);
+}
+
+
+a.elite-small-button:visited {
+     text-decoration: none;
+     color:rgb(209, 109, 9);
+}
+
+a.elite-title{
+     color: rgb(204, 204, 204) ;
+     text-decoration-color:rgb(240, 240, 240);
+     text-transform:uppercase;
+     font-weight: bold;
+}
+
+.elite-title{
+     color: rgb(204, 204, 204) ;
+     text-decoration-color:rgb(240, 240, 240);
+     text-transform:uppercase;
+     font-weight: bold;
+}
+
+.elite-title-solo{
+     color: rgb(204, 204, 204) ;
+     text-decoration-color:rgb(240, 240, 240);
+     text-transform:uppercase;
+     font-weight: bold;
+}
+
+.elite-news-title{
+     color:rgb(240, 123, 5);
+     text-decoration-color:rgb(240, 240, 240);
+     text-transform:uppercase;
+     font-weight: bold;
+}
+
+.elite-text{
+     color: rgb(204, 204, 204) ;
+}
+
+
+.elite-button{
+     color:rgb(0, 0, 0);
+     text-decoration-color:rgb(240, 240, 240);
+     text-transform:uppercase;
+     font-weight: bold;
+     background-color:rgb(240, 123, 5);
+     padding-bottom:1.6px;
+     padding-left:8px;
+     padding-right:8px;
+     padding-top:1.6px;
+}
+
+.elite-button-scroll{
+     padding-bottom:1.6px;
+     padding-top:1.6px;
+}
+
+.elite-hollow-button{
+     color:rgb(240, 123, 5);
+     text-decoration-color:rgb(240, 240, 240);
+     font-size: 1.2em;
+     border-color: rgb(240, 123, 5);
+     border-width: 1px;
+     background-color:rgb(0, 0, 0);
+     padding-bottom:4.8px;
+     padding-left:8px;
+     padding-right:8px;
+     padding-top:1.6px;
+}
+.elite-hollow-button:hover{
+text-decoration: none;
+}
+
+.elite-small-button{
+     text-transform:uppercase;
+     font-size: 1em;
+     color: rgb(240, 123, 5);
+}
+
+.elite-date{
+     color: rgb(204, 204, 204) ;
+     text-transform:uppercase;
+}
+.emoji {
+  font-size: 0.95em;
+}
